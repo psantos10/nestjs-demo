@@ -12,6 +12,6 @@ export class AppController {
 
   @Get()
   contacts(): string {
-    return 'About page';
+    return 'Contacts page';
   }
 }
